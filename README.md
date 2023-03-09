@@ -81,7 +81,7 @@ This tutorial outlines having a virtual machine in Azure, exposing that machine 
 
 <h2>Run PowershellISE script to get data from attackers</h2>
 
-- The script looks through the event viewer to see teh failed log ins, it takes tehm out and sends the IP address to the API where it shows the country and geodata and creates a failed log on file
+- The script looks through the event viewer to see the failed log ins, it takes them out and sends the IP address to the API where it shows the country and geodata and creates a failed log on file
 
 <p>
 <img src="https://i.imgur.com/9qRgtCi.png" height="80%" width="80%" 
