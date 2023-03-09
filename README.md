@@ -98,9 +98,16 @@ This tutorial outlines having a virtual machine in Azure, exposing that machine 
 <h2>Create Custom Fields/ Extract fields from raw  custom log data</h2>
 
 <p>
+<img src="https://i.imgur.com/tszoVx4.png" height="80%" width="80%" 
+</p>
+
+ -Extract the raw data so each piece has its own field e.g latitude, logitude etc.
+  
+<p>
 <img src="https://i.imgur.com/DvNrx38.png" height="80%" width="80%" 
 </p>
 
+- Highlight the particular value e.g latitude and click extract
 - Do this for latitude, longitude, destinationhost, source host, state, country, label, time stamp
 
 <p>
