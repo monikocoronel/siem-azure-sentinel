@@ -5,7 +5,7 @@
 </p>
 
 <h1> Azure-Sentinel</h1>
-This tutorial outlines having a virtual machine in Azure, exposing that machine to the internet by disabling its security and watching the geolocation of the would-be attackers get mappped out.<br />
+This tutorial outlines having a virtual machine in Azure, exposing that machine to the internet by disabling its security and watching the geolocation of the would-be attackers get mapped out.<br />
 
 <h2>Environments and Technologies Used</h2>
 
